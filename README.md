@@ -1,2 +1,2 @@
-# Phishing
-Space for phishing docs and study material
+# Sec Docs
+Space for security docs and study material
